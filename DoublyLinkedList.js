@@ -146,3 +146,5 @@ function DoublyLinkedList() {
         console.log(this.toString())
     }
 }
+
+//a

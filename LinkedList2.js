@@ -8,8 +8,8 @@ function LinkedList() {
     var head = null
 
     this.append = function(element) { //adiciona um novo elemento
-        var node = new Node(element), // cria um novo objeto do tipo nó
-        current 
+        var node = new Node(element), // cria um novo objeto do tipo nó(lista encadeada)
+        current
 
         if(head === null) { //se a cabeça for nula
             head = node // cabeça recebe novo no criado
@@ -140,3 +140,5 @@ lista.print();
 lista.remove("3")
 
 lista.print();
+
+//a

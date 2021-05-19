@@ -57,7 +57,6 @@ var hashtable  = new HashTable()
 hashtable.put("leandro","leandro.borges@me.com")
 hashtable.put("astolfo","astolfo@uol.com.br")
 hashtable.put("Livia","livia@uol.com.br")
-hashtable.put("Leandro","leandro.borges@me.com")
 
 
 
@@ -70,3 +69,4 @@ hashtable.print();
 // pop serve para remover o ultimo elemento de alguma coisa.
 
 
+//a
